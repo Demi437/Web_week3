@@ -1,0 +1,87 @@
+.wrap{
+	width:1200px;
+	margin: 0 auto;
+}
+.menu{
+	width:1000px;
+}
+.menu td{
+	font-size: 10px; 
+	text-align:center;
+	font-family:arial;
+}
+.content{
+	margin-top:20px;
+}
+.text{
+	width:550px;
+	float:left;
+	margin-left:80px;
+}
+.text h1{
+	text-decoration:underline;
+	color:blue; 
+}
+.img{
+	float:left;
+	margin-left:30px;
+}
+.img img{
+	width:300px;
+}
+.name{
+	position:absolute;
+	left:760px;
+	top:280px;
+	float:left;
+	margin-left:30px;
+	margin-top:5px; 
+}
+.claer{
+	clear:both;
+}
+hr{
+	width:100%;
+}
+.music{
+	float:left;
+	margin-top:20px;
+	margin-left:80px;
+	width:280px;
+	display: block;
+	background: #CCEEFF;
+  	border-radius: 10px;
+}
+.product{
+	text-align:center;
+	padding-top:10px;
+}
+.product img{
+	height:180px;
+}
+.title{
+	font-family:arial solid; 
+	font-size:20px;
+	text-align:center;
+}
+.detail{
+	margin-left:10px; 
+}
+.computer{
+	float:left;
+	margin-top:20px;
+	margin-left:80px;
+	width:280px;
+	display: block;
+	background: #CCEEFF;
+  	border-radius: 10px;
+}
+.toys{
+	float:left;
+	margin-top:20px;
+	margin-left:80px;
+	width:280px;
+	display: block;
+	background: #CCEEFF;
+  	border-radius: 10px;
+}
